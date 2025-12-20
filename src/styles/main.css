@@ -27,6 +27,7 @@ h1 {
 }
 
 
-.fa-brands {
+.fa-brands, .fa-envelope {
     color: #74C0FC;
 }
+
