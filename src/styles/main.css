@@ -1,0 +1,32 @@
+body {
+    background-color: #171a1b;
+    color: white;
+    font-family: 'Gothic A1', sans-serif;
+    
+    overflow: hidden;
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    min-height: 100vh;    
+    flex-direction: column;    
+}
+
+.info {
+    text-align: center;       
+    margin-bottom: 10px;
+}
+
+h1 {
+    margin-bottom: 10px;      
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+
+.fa-brands {
+    color: #74C0FC;
+}
