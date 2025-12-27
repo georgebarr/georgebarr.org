@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/dotfiles",
+      "destination": "https://github.com/georgebarr/dotfiles",
+      "permanent": true
+    }
+  ]
+}
+
