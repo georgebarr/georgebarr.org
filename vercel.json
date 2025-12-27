@@ -4,7 +4,17 @@
       "source": "/dotfiles",
       "destination": "https://github.com/georgebarr/dotfiles",
       "permanent": true
-    }
+    },
+    {
+      "source": "/github",
+      "destination": "https://github.com/georgebarr",
+      "permanent": true
+    },
+    {
+      "source": "/linkedin",
+      "destination": "https://www.linkedin.com/in/george-barr",
+      "permanent": true
+    },
   ]
 }
 
